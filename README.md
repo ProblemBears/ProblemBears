@@ -1,7 +1,6 @@
 <h1 align="center" > 🐻 Jonathan Martinez 🐻 </h1> 
-<div style="text-align:center;">
-<h3 style="padding:0.5rem;border-radius:4rem;display:inline-block;background-color: #563d7c" > Software Engineer & 3D Generalist </h3>
-</div>
+
+<h3 align="center"> Software Engineer & 3D Generalist </h3>
 
 <p align="center" >
 Hi there 👋 Welcome to my Github!
